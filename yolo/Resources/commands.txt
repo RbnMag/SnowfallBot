@@ -1,0 +1,23 @@
+==========Commands==========
+#commands - Show this command list.
+#resolve {username} - Resolve a skype name to reveal IP.
+#constat - Simple command to check if bot is online.
+#trace {IP / Host} - Trace a website or IP.
+#ddos {IP} {Time} - Attack an IP with a powerful UDP attack. //Currently Disabled
+#about - Gives you a little info about the bot.
+#ssyn {IP} {Time} - Attack an IP with a nice and powerful SSYN attack. //Currently Disabled
+#purchase - Purchase premium.
+#blacklist {Username} - Request blacklisting.
+#mccheck {Minecreaft Username} - Check if Minecraft username is premium or not.
+#cfresolve {Host} - Resolve a cloudflare protected site.
+#ping {Host / IP} - Ping a host or IP.
+#joke - Shows a Chuck Norris joke.
+#membership - Check if you're premium or not.
+#passgen {1 - 64} - Make a randomized password.
+#isup {Host} - Check if a website is up.
+#skypedb {Username} - Check previous IPs of a username.
+#useless {Anything} - Make a "Let Me Google That For You" link.
+#ip2skype {IP} - Check if an IP is connected to a Skype.
+#portcheck {IP} {PORT} - Scan an IP for open ports.
+#dns {Host} - Check a websites DNS records.
+============================
